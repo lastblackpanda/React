@@ -1,0 +1,29 @@
+{
+  "name": "practice",
+  "version": "1.0.1",
+  "description": "I'm practice in react ;)",
+  "main": "main.js",
+  "scripts": {
+    "rumb": "src/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastblackpanda/React.git"
+  },
+  "keywords": [
+    "Git",
+    "hub",
+    "JS",
+    "ESSKETIT"
+  ],
+  "author": "Oonoki)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastblackpanda/React/issues"
+  },
+  "homepage": "https://github.com/lastblackpanda/React#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
